@@ -70,7 +70,7 @@ This project consists of two parts — analyzing job processing performance and 
 
 ## 📝 Author
 
-**Your Name Here**  
+**Nikhil**  
 *Data Enthusiast | SQL Explorer*
 
 ---
