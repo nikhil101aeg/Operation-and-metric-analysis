@@ -1,5 +1,5 @@
 
-# 📊 Metric & User Engagement Analysis Using SQL
+# 📊 Operation and Metric Analysis Using SQL
 
 This project consists of two parts — analyzing job processing performance and understanding user engagement metrics for a platform — using SQL. It showcases end-to-end data cleaning, transformation, and analytical querying to extract meaningful insights.
 
